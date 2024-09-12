@@ -2,8 +2,6 @@
   "name": "wallet-generator",
   "version": "1.0.0",
   "description": "Creates any number of wallets on a given network.",
-  "main": "dist/index.js",
-  "bin": "dist/index.js",
   "author": "Emir Guvenni (contact@emirguvenni.com)",
   "license": "MIT",
   "private": false,
